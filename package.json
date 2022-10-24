@@ -1,0 +1,21 @@
+{
+  "name": "seconds-to-duration",
+  "version": "0.0.1",
+  "description": "Format seconds to HH:MM:SS (Hours:Minutes:Seconds) Time Duration.",
+  "author": "jer-0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jer-0/secondsToTime.js"
+  },
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "license": "ISC",
+  "type": "module",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
