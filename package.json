@@ -1,6 +1,6 @@
 {
   "name": "seconds-to-duration",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Format seconds to HH:MM:SS (Hours:Minutes:Seconds) Time Duration.",
   "author": "jer-0",
   "repository": {
