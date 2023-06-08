@@ -10,7 +10,9 @@ npm install seconds-to-duration
 ## Usage:
 
 ```javascript
-secondsToTime(30) // 00:30
-secondsToTime(100) // 01:40
-secondsToTime(3600) // 01:00:00
+import secondToDuration from 'seconds-to-duration'
+
+secondToDuration(30) // 00:30
+secondToDuration(100) // 01:40
+secondToDuration(3600) // 01:00:00
 ```
